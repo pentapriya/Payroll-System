@@ -1,0 +1,75 @@
+
+
+Payroll_Report of lakshmi priya penta_46275461:
+
+emp_name         :  lakshmi priya penta                      		emp_id       :  46275461
+emp_designation  :  associate1                  	emp_date_of_joining  : 20-09-2022
+emp_PAN_Number   : CDRPP9067X                   	emp_UAN_Number       : 123456789123
+emp_Number_Of_Days_paid:  30                         	Annual_CTC      : 400010
+
+Earnings                                                       Deductions
+
+Basic  						 : 15667.1                                 ESI	:		0
+DA      					 : 3133.41                                  PF	:		2256.06
+HRA  						 : 9400.23                                  PT	:		200
+Advance_statutory_bonus		 : 2820.07                          		LOP	:		 1980
+personal_allowance  		 : 940.023
+Remote_working_Allowance  	 : 940.023
+extra_work_hours			 :  1485
+
+Gross_Earnings  		 : 31252.4                    Gross_Deductions	:		4436.06
+
+Net_Salary		:		26816.4
+
+
+
+
+
+Payroll_Report of pooja _46375321:
+
+emp_name         :   pooja                       		emp_id       :  46375321
+emp_designation  :     analyst                  	emp_date_of_joining  : 12-10-2022
+emp_PAN_Number   : XSERF34562                   	emp_UAN_Number       : 123443211234
+emp_Number_Of_Days_paid:  30                         	Annual_CTC      : 500020
+
+Earnings                                                       Deductions
+
+Basic  						 : 19584.1                                 ESI	:		0
+DA      					 : 3916.82                                  PF	:		2820.11
+HRA  						 : 11750.5                                  PT	:		200
+Advance_statutory_bonus		 : 3525.14                          		LOP	:		 0
+personal_allowance  		 : 1175.05
+Remote_working_Allowance  	 : 1175.05
+extra_work_hours			 :     0
+
+Gross_Earnings  		 : 37209.8                    Gross_Deductions	:		3020.11
+
+Net_Salary		:		34189.7
+
+
+
+
+
+Payroll_Report of rakesh penta_46275461:
+
+emp_name         :  rakesh penta                      		emp_id       :  46275461
+emp_designation  : analyst senior                  	emp_date_of_joining  : 23-03-2018
+emp_PAN_Number   : 2343454351                   	emp_UAN_Number       :    2132435
+emp_Number_Of_Days_paid:  30                         	Annual_CTC      : 600300
+
+Earnings                                                       Deductions
+
+Basic  						 : 23511.8                                 ESI	:		0
+DA      					 : 4702.35                                  PF	:		3385.69
+HRA  						 : 14107                                  PT	:		200
+Advance_statutory_bonus		 : 4232.11                          		LOP	:		 1980
+personal_allowance  		 : 1410.7
+Remote_working_Allowance  	 : 1410.7
+extra_work_hours			 :  1980
+
+Gross_Earnings  		 : 46652.3                    Gross_Deductions	:		5565.69
+
+Net_Salary		:		41086.6
+
+
+
